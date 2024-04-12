@@ -18,6 +18,6 @@ I'm a student at University Of Computer Studies, Maubin.
 - 💬 Ask me about Java, PHP 
 - 📫 How to reach me: aungkhantkyaw.tech@gmail.com 
 
-[![Stats](https://github-stats-alpha.vercel.app/api/?username=aungkhantkyaw-dev "Stats")](https://github.com/aungkhantkyaw-dev "Stats")<br>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aungkhantkyaw-dev)  
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=aungkhantkyaw-dev&card_width=950 "Stats")](https://github.com/aungkhantkyaw-dev "Stats")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aungkhantkyaw-dev)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aungkhantkyaw-dev&card_width=950)  
